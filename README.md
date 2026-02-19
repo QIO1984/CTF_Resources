@@ -3,6 +3,8 @@
 # MADNOTE HACKS
 #### A Collection of Links to Tools, Resources, and Guides for Cybersecurity, Hacking, and CTF Events
 
+##Contributions Welcomed!
+
 ___
 
 **Note**: The headings in part 1 of this guide align with domains of the [National Cyber League's](https://nationalcyberleague.org/competition) CTF competition. Additionally, I acknowledge that there are many excellent paid tools and resources in the categories below. This list is intended to provide **FOSS resources** related to cybersecurity and ethical hacking, so for the most part, paid tools have been excluded.
